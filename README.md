@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/mo.maheer" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Maher-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=javascript)&nbsp;
+![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Sql](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=sql&logoColor=563D7C)&nbsp;
 ![typeScript](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=TypeScript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

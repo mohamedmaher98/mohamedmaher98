@@ -15,7 +15,6 @@
 - 👨‍💻 As java developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Java, Sql, and JavaScript, or anything related to ERP Sysytem.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://mohamed-maher.netlify.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
